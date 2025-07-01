@@ -23,7 +23,7 @@
 
 A student based in China.
 - 💬 Read more about my [Blog](https://www.hoi3vel.cn/)
-- 😄 Talk with me by [Email](mailto:WYuHwn@Gmail.com)
+- 😄 Talk with me by [Email](mailto:hoi3vel@gmail.com)
 - 🌱 Find something extraordinary in the ordinary
 
     </td>
